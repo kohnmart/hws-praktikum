@@ -1,0 +1,2 @@
+
+***Ändern Sie die Datenflussbeschreibungen der Gatter AND2 und XOR2 aus der vorherigen Aufgabe  so, dass das AND-Gatter eine Verzögerung von 3 ns und das XOR-Gatter eine Verzögerung von  2 ns hat. Überprüfen Sie dieses Verhalten durch eine Simulation mit Waveform-Anzeige

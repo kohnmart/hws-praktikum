@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "624d15fb840a9e58",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0af9fc879e9d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03ebc428b6f6d636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Volladdierer und Timing-Analyse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "033b4f6e59467e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - Signal Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "860a52d4f2d7ee49",
+    "type": "split",
+    "children": [
+      {
+        "id": "85d0fb1c6d9eeeca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9927f289b989a536",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb77ea759d111db6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e8f102b8eb460dd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3984200fbc5ca9cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "95c53a556eec4b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d299a9fcd2d9fab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Signal Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47083c264ce59f86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - Signal Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d40be464be751f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f498c314f1d397a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Signal Test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "033b4f6e59467e77",
+  "lastOpenFiles": [
+    "2 - Volladdierer und Timing-Analyse.md",
+    "1 - Architekturen.md",
+    "3 - Signal Test.md"
+  ]
+}
